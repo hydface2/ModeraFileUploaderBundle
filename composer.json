@@ -17,8 +17,8 @@
         "php": ">=5.4.0",
         "symfony/symfony": "~2.0",
         "sergeil/expander-bundle": "~1.0",
-        "hydface/file-repository-bundle": "dev-master",
-        "hydface/foundation-bundle": "dev-master"
+        "hydface/file-repository-bundle": "self.version",
+        "hydface/foundation-bundle": "self.version"
     },
     "require-dev": {
         "phpunit/phpunit": "3.7.*",
